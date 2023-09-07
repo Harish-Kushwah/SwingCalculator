@@ -13,10 +13,14 @@ This is a simple calculator application developed using Java Swing. It provides 
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Download](#download)
 
-![Java Swing Calculator](images/cal_screenshot.png)
+---
+## Screenshot
+  - User Interface of  Calculator
 
-
+ ![Java Swing Calculator](images/cal_screenshot.png)
+---
 ## Features
 
 - Addition (+)
@@ -27,6 +31,7 @@ This is a simple calculator application developed using Java Swing. It provides 
 - Square Root (sqrt(x))
 - Square (x^2)
 
+---
 ## How to Use
 
 1. Clone this repository to your local machine using `git clone`.
@@ -40,11 +45,24 @@ This is a simple calculator application developed using Java Swing. It provides 
 
 4.  Use the graphical user interface to input numbers and perform calculations.
 
-### Contributing
+---
+
+## Download
+- This calculator is desktop application
+- Before downloading the application make sure to set up the JDK17 in computer
+- Download  executable file [ click here ](ApplicationFile/SwingCalculator.exe)
+- Run the SwingCalculator.exe to use calculator file
+
+---
+## Contributing
   If you'd like to contribute to this project, please fork the repository and create a pull request. We welcome contributions that enhance the functionality, improve the user interface, or fix any issues.
 
-### License
-This calculator application is open-source and available under the MIT License.
+---
+## License
+ This calculator application is open-source and available under the MIT License.
 
-### Acknowledgments
+---
+
+## Acknowledgments
 This project was inspired by a desire to create a simple, yet functional calculator using Java Swing. Special thanks to the Java Swing community for valuable resources and tutorials.
+
